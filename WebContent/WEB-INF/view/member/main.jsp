@@ -34,7 +34,7 @@
 				<jsp:include page="member-update.jsp"/>
 				</c:when>
 			</c:choose>
-			
+			 
 		</td>
 	</tr>
 </table>

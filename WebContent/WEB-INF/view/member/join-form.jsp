@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+
 <div id="join-form">
 	<h1>회원관리</h1>
 	<p>회원가입</p>

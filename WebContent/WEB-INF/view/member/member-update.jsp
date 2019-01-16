@@ -20,8 +20,11 @@
 	<tr>
 		<td>비밀번호</td>
 		<td>
+		<form action="member.do">
 		현재 비밀번호 <input type="text" name="currPass" /> <br />
 		새 비밀번호 <input type="text" name="changePass"/> <br />
+		<input type="submit" id="btn" value="확인"/>
+		</form>
 		</td>
 	</tr>
 	<tr>
